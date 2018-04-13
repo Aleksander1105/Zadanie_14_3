@@ -9,7 +9,7 @@ var movies = [
 		id: 2,
 		title: 'Psy 2',
 		dsc: 'Film o Bogusiu Lindzie',
-		img: './Psy-2.jpg'
+		img: './Psy-2.jpeg'
 	},
 	{   
 		id: 3,
